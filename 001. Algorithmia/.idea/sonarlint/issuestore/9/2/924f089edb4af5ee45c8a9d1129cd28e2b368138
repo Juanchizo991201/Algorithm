@@ -1,0 +1,16 @@
+
+]
+java:S1220""Move this file to a named package.8Ãü·õ1J$d557b9cb-11ca-482d-82a8-6781f983ee7f
+G	java:S106"+Replace this use of System.out by a logger.(ŞÒ©Ø8åà¸õ1
+l
+java:S1128")Remove this unused import 'model.Player'.(æÇëÉ8Ôü·õ1J$54908749-14ba-4c93-88c8-f434d9c40982
+q
+java:S1128".Remove this unused import 'resources.Compare'.( Á‰¶8Ôü·õ1J$897f1174-0ed5-4064-905e-8ab490e590a9
+}
+java:S1128"5Remove this unused import 'resources.DataStructures'.(Á˜Çøÿÿÿÿ8Ôü·õ1J$639162fb-e36d-49c2-977d-7d76748ca61a
+r
+java:S1128"/Remove this unused import 'resources.Solution'.(‰‰‹–8Ôü·õ1J$1c888355-19ab-4eef-9209-ec16423205ba
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Õü·õ1J$8d8ac060-89c6-4107-97af-695cf2bd9036
+w
+java:S1128"/Remove this unused import 'resources.ListNode'.(ˆİùÑıÿÿÿÿ8Õü·õ1J$b75e1e11-1477-4a47-b0ef-012a463f8a55

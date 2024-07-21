@@ -1,0 +1,36 @@
+
+u	java:S135>"YReduce the total number of break and continue statements in this loop to use at most one.(÷˜Ñÿ8¶™µØò1
+h
+java:S2184«"ECast one of the operands of this subtraction operation to a "double".(”Ì ûÿÿÿÿ8½™µØò1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8àµØò1
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ûÕ‘Ñ8ìµØò1
+n
+java:S1871B"LThis branch's code block is the same as the block for the branch on line 63.(Ó¥˜¬üÿÿÿÿ8ïµØò1
+L	java:S106b"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ôµØò1
+X	java:S125a"<This block of commented-out lines of code should be removed.(°Ë•Ó8õµØò1
+L	java:S106f"+Replace this use of System.out by a logger.(§÷Éûÿÿÿÿ8öµØò1
+L	java:S106z"+Replace this use of System.out by a logger.(Å´§¡ıÿÿÿÿ8úµØò1
+D
+java:S1905Õ"&Remove this unnecessary cast to "int".(¶¸òÚ8„µØò1
+_
+java:S1854"ARemove this useless assignment to local variable "possibilities".(«‰Ù¦8µØò1
+P
+java:S1481"2Remove this unused "possibilities" local variable.(«‰Ù¦8µØò1
+p
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ºÔ“8«µØò1
+^	java:S125ê"<This block of commented-out lines of code should be removed.(¦å…öúÿÿÿÿ8¬µØò1
+^	java:S125î"<This block of commented-out lines of code should be removed.(š¿ğÓüÿÿÿÿ8­µØò1
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(‰Ì·÷üÿÿÿÿ8­µØò1
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(§³Âî8±µØò1
+^	java:S125û"<This block of commented-out lines of code should be removed.(öè’Ôûÿÿÿÿ8±µØò1
+H	java:S106®"+Replace this use of System.err by a logger.(Ñş¾ù8ÅµØò1
+H
+java:S1172¹"*Remove this unused method parameter "arr".(É¹³Ñ8ËµØò1
+I
+java:S1481À"+Remove this unused "minsum" local variable.(ˆÍë»8ÌµØò1
+I
+java:S1481Á"+Remove this unused "maxsum" local variable.(ÆıŒƒ8ÍµØò1
+M	java:S106Å"+Replace this use of System.out by a logger.(ŸƒÖÀûÿÿÿÿ8ÍµØò1
+M	java:S106Í"+Replace this use of System.out by a logger.(áò¢Éùÿÿÿÿ8ÏµØò1
